@@ -4,8 +4,10 @@
   ✏️  Cari tulisan "GANTI" untuk mengganti link pribadimu
 ============================================================ -->
 
-<!-- ANIMATED HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e6b4d&height=170&section=header&text=HI%2C%20I%27M%20REVA&fontSize=54&fontColor=f0dfb8&animation=fadeIn&fontAlignY=38" width="100%" />
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Revcah/Revcah/main/assets/header.png" width="100%" alt="Hi, I'm Reva" />
+</p>
 
 <!-- ANIMATED TYPING -->
 <p align="center">
@@ -61,6 +63,11 @@ $ philosophy
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revcah&layout=compact&title_color=0e6b4d&text_color=f0dfb8&bg_color=0d1117&border_color=0e6b4d" alt="top languages" />
+</p>
+
+<!-- CTA BANNER -->
+<p align="center">
+  <a href="mailto:halo@revcah.dev"><img src="https://raw.githubusercontent.com/Revcah/Revcah/main/assets/cta.png" width="100%" alt="Let's build something" /></a>
 </p>
 
 ## 🐍 Watch the snake eat my contributions
