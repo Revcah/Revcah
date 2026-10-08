@@ -1,7 +1,7 @@
 <!-- ============================================================
   GitHub Profile README — Muhamad Reva Cahyadi (@Revcah)
   Neo-brutalist emerald theme
-  ✏️  Cari tulisan "GANTI" untuk mengganti link pribadimu
+   Cari tulisan "GANTI" untuk mengganti link pribadimu
 ============================================================ -->
 
 <!-- HEADER BANNER -->
@@ -18,15 +18,15 @@
   <img src="https://komarev.com/ghpvc/?username=Revcah&color=0e6b4d&style=flat&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
-## ✨ About Me
+## About Me
 
-- 🎓 Informatics Management student @ **Politeknik LP3I Jakarta**
-- 💻 Full-stack developer — clean, fast & user-friendly web apps
-- 🌱 Currently exploring **AI & automation**
-- 📫 Open for **internships**, freelance & collaboration
-- 📍 Jakarta, Indonesia
+- Informatics Management student @ **Politeknik LP3I Jakarta**
+- Full-stack developer — clean, fast & user-friendly web apps
+- Currently exploring **AI & automation**
+- Open for **internships**, freelance & collaboration
+- Jakarta, Indonesia
 
-## 🛠️ How I Build
+## How I Build
 
 ```bash
 $ whoami
@@ -39,17 +39,17 @@ $ philosophy
 → "ship fast, keep it clean, make it useful"
 ```
 
-## 🏗️ Things I've Built
+## Things I've Built
 
 | Project | What it does | Stack |
 |---|---|---|
-| 📚 **Library System** | Peminjaman & manajemen buku + dashboard admin | Laravel · MySQL |
-| 💻 **Portfolio Website** | Website portofolio neo-brutalist emerald | Next.js · Tailwind |
-| 🤖 **Notification Bot** | Pengingat & notifikasi terjadwal otomatis | Python |
+| **Library System** | Peminjaman & manajemen buku + dashboard admin | Laravel · MySQL |
+| **Portfolio Website** | Website portofolio neo-brutalist emerald | Next.js · Tailwind |
+| **Notification Bot** | Pengingat & notifikasi terjadwal otomatis | Python |
 
-<!-- ✏️ GANTI: ganti tabel di atas dengan proyek aslimu nanti -->
+<!-- GANTI: ganti tabel di atas dengan proyek aslimu nanti -->
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,tailwind,php,laravel,mysql,postgresql,git,figma&theme=dark" alt="tech stack" />
@@ -76,9 +76,9 @@ $ philosophy
   <img src="https://raw.githubusercontent.com/Revcah/Revcah/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 </p>
 
-## 📫 Connect with me
+## Connect with me
 
-<!-- ✏️ GANTI: ganti username/link di bawah ini dengan akun aslimu -->
+<!-- GANTI: ganti username/link di bawah ini dengan akun aslimu -->
 <p align="center">
   <a href="https://instagram.com/revcah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.linkedin.com/in/revcah"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -89,4 +89,4 @@ $ philosophy
 <!-- ANIMATED FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e6b4d&height=120&section=footer" width="100%" />
 
-<p align="center"><sub>README.md · last updated Oct 2026 · made with ☕</sub></p>
+<p align="center"><sub>README.md · last updated Oct 2026 </sub></p>
